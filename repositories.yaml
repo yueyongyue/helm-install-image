@@ -1,0 +1,9 @@
+repositories:
+- caFile: ""
+  cache: /root/.helm/repository/cache/stable-index.yaml
+  certFile: ""
+  keyFile: ""
+  name: stable
+  password: ""
+  url: https://kubernetes.oss-cn-hangzhou.aliyuncs.com/charts
+  username: ""
